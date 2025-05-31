@@ -1,7 +1,7 @@
 # ZaloQT - Linux Release Build
 
 <div align="center">
-  <img src="mainIco.png" alt="ZaloQT Icon" width="150" height="150">
+  <img src="mainIco.png" alt="ZaloQT Icon" width="500" height="500">
 </div>
 
 [![Linux](https://img.shields.io/badge/OS-Linux-blue.svg)](https://www.linux.org/) [![Qt6](https://img.shields.io/badge/Qt-6-green.svg)](https://www.qt.io/) [![C++](https://img.shields.io/badge/Language-C%2B%2B-orange.svg)](https://isocpp.org/) [![OpenAI](https://img.shields.io/badge/AI-OpenAI-412991.svg)](https://openai.com/)
