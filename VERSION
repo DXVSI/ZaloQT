@@ -1,0 +1,21 @@
+ZaloQT v1.0
+Build Date: 2024-12-31
+Build System: Fedora Linux 42 KDE Plasma
+Compiler: qmake + Qt6
+Architecture: x86_64
+Binary Size: 3.4MB
+
+Features:
+- Qt6 WebEngine integration
+- OpenAI translation support
+- Custom UI enhancements
+- System tray integration
+- GPU acceleration control
+- Debug tools
+
+Supported OpenAI Models:
+- o3-2025-04-16 (latest)
+- gpt-4o-2024-11-20 (recommended)
+- gpt-4-turbo-2024-04-09
+- gpt-3.5-turbo-0125
+- o1-mini-2024-09-12 
